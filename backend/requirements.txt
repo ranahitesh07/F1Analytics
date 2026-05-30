@@ -1,0 +1,6 @@
+1. fastapi
+2. uvicorn
+3. sqlalchemy
+4. psycopg2-binary
+5. pandas
+6. fastf1
